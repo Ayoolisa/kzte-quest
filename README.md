@@ -4,9 +4,6 @@
 
 A gamified loyalty and educational platform to drive adoption of the KZTE stablecoin. Users complete quests to learn about KZTE and blockchain technology, earning rewards and strengthening community engagement.
 
-  
-*Note: Replace the image URL above with a real screenshot of your application.*
-
 ---
 
 ## 🚀 About The Project
@@ -50,7 +47,7 @@ You need to have Node.js and npm (or yarn) installed on your machine.
 
 1.  **Clone the repo**
     ```sh
-    git clone https://github.com/Ayoolisa/kzte-quest.git
+    git clone https://github.com/your-username/kzte-quest.git
     cd kzte-quest
     ```
 2.  **Install NPM packages**
@@ -90,24 +87,6 @@ The project is organized with a clear and scalable component-based structure:
 ├── package.json         # Project dependencies and scripts
 └── README.md            # This file
 ```
-
----
-
-## 🧭 How You Can Contribute
-
-Choose the format that best fits your skills:
-
-1.  **Idea / Concept**
-    *   Up to 1 page of description
-    *   You can include diagrams or references
-
-2.  **Prototype / Project**
-    *   Figma design, demo, or MVP
-    *   Brief description of architecture or UX
-
-3.  **Research / Analytics**
-    *   Case study on KZTE adoption in a specific niche
-    *   Analysis of benefits, risks, and implementation scenarios
 
 ---
 
