@@ -1,0 +1,5 @@
+{
+  "name": "KZTE Quest: Learn & Earn",
+  "description": "A gamified loyalty and educational platform to drive adoption of the KZTE stablecoin. Users complete quests to learn about KZTE and blockchain technology, earning rewards and strengthening community engagement. Features an AI-powered helper bot using the Gemini API.",
+  "requestFramePermissions": []
+}
